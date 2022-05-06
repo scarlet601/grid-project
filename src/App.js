@@ -79,26 +79,4 @@ function App() {
 
 export default App;
 
- {/*<div className="grid-container">
-    <section1 className='first-person-info'>
-      <div className='img-heading-section'>
-        <img src={img} alt="image" className='outline-img'/>
-        <div className='first-person-info-text'>
-         <h3 className='name'>Daniel Clifford</h3>
-         <p className='desc'>Verified Graduate</p>
-        </div>
-      </div>
-      <h1 className='first-section-h1'>I received a job offer mid-course, and the subjects I learned
-       were current, if not more so,in the company I joined. I
-       honestly feel I got every penny’s worth.</h1>
-      <p className='second-section-p2'> “ I was an EMT for many years before I joined the bootcamp. I’ve been looking to make a
-      transition and have heard some people who had an amazing experience here. I signed up
-      for the free intro course and found it incredibly fun! I enrolled shortly thereafter.
-      The next 12 weeks was the best - and most grueling - time of my life. Since completing
-      the course, I’ve successfully switched careers, working as a Software Engineer at a VR startup. ”</p>
-      </section1>
-    <section2 className='second-person'></section2>
-    <section3 className='third-person'></section3>
-    <section4 className='fourth-person'></section4>
-    <section5 className='fifth-person'></section5>
-  </div>*/}
+ 
